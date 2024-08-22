@@ -1,0 +1,5 @@
+<Response>
+<Say voice="woman">Time for Visa.</Say>
+<Pause length="1"/>
+<Say voice="woman">Be fast , it can be so late.</Say>
+</Response>
